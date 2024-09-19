@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.upi_pay_latest.app
+        package: com.drenther.upi_pay
         pluginClass: UpiPayPlugin
       ios:
         pluginClass: UpiPayPlugin
